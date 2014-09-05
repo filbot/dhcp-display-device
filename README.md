@@ -1,11 +1,8 @@
 dhcp-display-device
 ===================
 
-Project: Nemesis. An Arduino project which gets and displays a dhcp address.
+Project: Nemesis. An Arduino project which detects and displays a dhcp address.
 
+Our goal is to build a sturdy and simple-to-use device that will detect and display a dhcp-assigned IP address when plugged into a network. Designed for techs installing networked equipment such as ATM machines, this device will help determine if a given ethernet wire is receiving valid addresses via dhcp and if there is internet connectivity. We plan to open source all code and hardware designs, including the final 3D-printable casing. The final product should be cheaper to manufacture than existing $200 solutions.
 
-Edit this entire file as you see fit. Its all markdown
-
-Mike, this is where you use your lingustic paintbrush to get people excited about this product. My thought is that we opensource the code and the 3d printer box design files in this repo so others can benfit and we can benifit from their PRs if they submit any. If we want to see if this project has legs as a product for sale, we can do that as well. They can either build it themselves or buy the complete project from us.
-
-...this message will self destruct in 3...2...
+Mike & Filip, 9/5/2014
